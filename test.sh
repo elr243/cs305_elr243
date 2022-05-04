@@ -16,7 +16,7 @@ git remote set-url orgin git@github.com:elr243/cs305_elr243.git
 
 git add -A
 
-git commit -am "update log"
+git commit -a "update log"
 
 git push
 ~             
