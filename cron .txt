@@ -1,0 +1,1 @@
+*/10 * * * * /home/elr243/cs305_elr243/test.sh 2> /home/elr243/scriptlog.txt
